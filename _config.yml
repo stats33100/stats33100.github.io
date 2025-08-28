@@ -1,10 +1,11 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "stats_33100"
+author: "stats_33100"
+description: "Tilastoja koriksesta ja muusta"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+# date_format: "%B %d, %Y"
+date_format: "%d.%m.%Y"
 
 # Layout
 
@@ -22,9 +23,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  #- {title: Mail, icon: envelope, url: "mailto:author@example.com"}
+  #- {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
