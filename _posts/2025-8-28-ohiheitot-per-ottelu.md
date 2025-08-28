@@ -2,6 +2,7 @@
 title:  "Ohiheitot per ottelu"
 layout: post
 categories: korisliiga
+image: images/image_nba_ohiheitot.jpg
 ---
 
 Kirk Goldsberry kertoo artikkelissaan NBA joukkueiden ottavan 3p heittoyrityksiä kiihtyvällä vauhdilla. Koska NBA:n 3p heittoprosentti (noin 36%) ei ole juuri muuttunut, niin seurauksena on enemmän ja enemmän 3p ohiheittoja per ottelu. Goldsberry ehdottaakin, että nykyinen 3p-viiva on aikansa elänyt ja siihen pitäisi tehdä muutoksia (poistaa kulmakolkki kokonaan). Itse innostuin sääntökeskustelua enemmän Goldsberryn tekemästä kaaviosta, josta näkyy tyydyttävällä tavalla, kuinka runkosarjassa 2p ja 3p ohiheittojen määrä on lähestynyt toisiaan. Jopa siinä määrin, että tällä NBA:n runkosarjakaudella 3p ohiheittoja nähtiin enemmän kuin 2p ohiheittoja!
