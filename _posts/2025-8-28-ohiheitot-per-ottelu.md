@@ -7,6 +7,15 @@ image: images/image_nba_ohiheitot.jpg
 
 Kirk Goldsberry kertoo artikkelissaan NBA joukkueiden ottavan 3p heittoyrityksiä kiihtyvällä vauhdilla. Koska NBA:n 3p heittoprosentti (noin 36%) ei ole juuri muuttunut, niin seurauksena on enemmän ja enemmän 3p ohiheittoja per ottelu. Goldsberry ehdottaakin, että nykyinen 3p-viiva on aikansa elänyt ja siihen pitäisi tehdä muutoksia (poistaa kulmakolkki kokonaan). Itse innostuin sääntökeskustelua enemmän Goldsberryn tekemästä kaaviosta, josta näkyy tyydyttävällä tavalla, kuinka runkosarjassa 2p ja 3p ohiheittojen määrä on lähestynyt toisiaan. Jopa siinä määrin, että tällä NBA:n runkosarjakaudella 3p ohiheittoja nähtiin enemmän kuin 2p ohiheittoja!
 
+<Image
+  src="images/image_nba_ohiheitot.jpg"
+  width="1015"
+  height="800"
+  alt="Image"
+  sizes="100vw"
+/>
+
+
 ## Entä korisliiga?
 
 Kuinka ohiheitot jakaantuvat kotoisessa miesten korisliigassa? Onko muutos ollut yhtä tasaista, ja koliseeko täälläkin 3p heitot useammin rautoihin kuin 2p heitot? Basket.fi:n tilastohistoriasta sekä nykyisestä tilastopalvelusta saa kerättyä 2p ja 3p heittojen määrät kaudesta 1984-1985 lähtien. Toisin kuin Goldsberryllä, jolla on kaaviossaan vain NBA:n runkosarjaottelut, niin käyttämässäni korisliigatilastoissa on mukana kaikki kauden ottelut.1 “Hetken” jumpattuani ggplot2:ssa minäkin osasin tehdä Goldsberryä mukailevan kaavion.
