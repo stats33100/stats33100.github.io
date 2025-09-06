@@ -19,7 +19,7 @@ Tässä kuva kuinka korisliigassa hyökkäyslevypallojen määrä korreloi hyvin
 
 ![OR per 36 min vs height](/assets/images/image_pituus_p36mor_2025_r.webp)
 
-### Lisätietona
+### Lisätiedoksi
 Wiensin ym artikkeli: Wiens, J., Balakrishnan, G., Brooks, J., & Guttag, J. (2013). To crash or not to crash: A quantitative look at the relationship between offensive rebounding and transition defense in the NBA. In Proceedings of the MIT Sloan Sports Analytics Conference (Vol. 2013). 
 
 [popovitc]: https://www.espn.com/nba/story/_/id/14505051/transition-defense-left-offensive-rebounds-cutting-room-floor
