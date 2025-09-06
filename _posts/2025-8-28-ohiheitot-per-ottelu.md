@@ -18,7 +18,7 @@ Kaaviostani näkyy, kuinka myös korisliigassa trendi on ollut saman suuntainen.
 
 ## 3p heittotahti eri sarjoissa
 
-NBA:ssä ja miesten Korisliigassa heitetään enenevässä määrin 3p heittoja, mutta kuinka usein niitä 3p heittoja oikein otetaan näissä sarjoissa? Katsoessa klippejä NBA:sta tuntuu, että pelaajat heittävät jatkuvasti hätäisiä siirtymä pull up -kolmosia sekä väkinäisiä step back -kolmosia, kun taas Suomessa 3p yritykset ovat hieman harkitumpia. Pitääkö fiilis paikkansa? Heitetäänkö NBA:ssa oikeasti useammin kaaren takaa kuin Korisliigassa, ja kuinka paljon eri joukkueiden välillä on vaihtelua? Jotta eri sarjoissa pelaavien joukkueiden vertailu onnistuu, niin tarkastellaan kuinka monta 3p heittoa (3PA, 3 Point Attempt) kukin joukkue ottaa per minuutti. Pylvästaulusta joukkueden heittotahtia on helppo vertailla. Data on [RealGM][realgm] sivustolta
+NBA:ssä ja miesten Korisliigassa heitetään enenevässä määrin 3p heittoja, mutta kuinka usein niitä 3p heittoja oikein otetaan näissä sarjoissa? Katsoessa klippejä NBA:sta tuntuu, että pelaajat heittävät jatkuvasti hätäisiä siirtymä pull up -kolmosia sekä väkinäisiä step back -kolmosia, kun taas Suomessa 3p yritykset ovat hieman harkitumpia. Pitääkö fiilis paikkansa? Heitetäänkö NBA:ssa oikeasti useammin kaaren takaa kuin Korisliigassa, ja kuinka paljon eri joukkueiden välillä on vaihtelua? Jotta eri sarjoissa pelaavien joukkueiden vertailu onnistuu, niin tarkastellaan kuinka monta 3p heittoa (3PA, 3 Point Attempt) kukin joukkue ottaa per minuutti. Pylvästaulusta joukkueden heittotahtia on helppo vertailla. Data on [RealGM][realgm] sivustolta.
 
 ![Goldsberry's plot](/assets/images/image_korisliiga_nba_3pheitot_permin2_r.webp)
 
