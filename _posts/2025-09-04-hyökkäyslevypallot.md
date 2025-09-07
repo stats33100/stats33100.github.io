@@ -4,7 +4,7 @@ layout: post
 categories: korisliiga, levypallot
 ---
 
-Pitkään joukkueet seurasivat [Popovitcin ym. muiden jättejä][popovitc], ja juoksuttivat aina kaikki pelaajansa alas heiton jälkeen. Kuitenkin tästä kohtuuttoman pelon taktiikasta ollaan hiljalleen pääsemässä eroon, ja joukkueet lähettää osan pelaajistaan hyökkäyslevypalloihin. Alla on kuvattu, kuinka NBA:n keksimääräinen hyökkäyslevypallojen osuus mahdollisista levypalloista ([offensive rebound percentage, oreb%][oreb_pct]) kausilla 2005-2025.
+Pitkään joukkueet seurasivat [Popovitcin ym. muita valmentajajättejä][popovitc], ja juoksuttivat aina kaikki pelaajansa alas heiton jälkeen. Kuitenkin tästä kohtuuttoman pelon taktiikasta ollaan hiljalleen pääsemässä eroon, ja joukkueet lähettää osan pelaajistaan hyökkäyslevypalloihin. Alla on kuvattu, kuinka NBA:n keksimääräinen hyökkäyslevypallojen osuus mahdollisista levypalloista ([offensive rebound percentage, oreb%][oreb_pct]) on noussut kausilla 2005-2025.
 
 ![Oreb% NBA](/assets/images/image_oreb_pct_nba_r.webp)
 
@@ -12,7 +12,7 @@ Muutos ei ole valtava (2020-21 n.22% -> 2024-25 n.25%), mutta kuitenkin havaitta
 
 ![Oreb% Korisliiga](/assets/images/image_oreb_pct_korisliiga_r.webp)
 
-Korisliigassa on huomattavissa saman suuntainen, mutta jopa voimakkaampi trendi. Tämä onkin mitä luultavammin Iisalon menestyksen heijastuma, koska onhan hän tietysti Suomessa todella seurattu valmentaja. Hyökkäyslevypallopelaaminen on taas toivottua.
+Korisliigassa on huomattavissa saman suuntainen, mutta jopa voimakkaampi trendi. Tämä onkin mitä luultavammin Iisalon menestyksen heijastuma, koska onhan hän tietysti Suomessa todella seurattu valmentaja. Hyökkäyslevypallopelaaminen on taas toivottua, ja muodustunut myös yhdeksi Susijengin vahvuuksista.
 
 ## Extra
 Tässä kuva kuinka korisliigassa hyökkäyslevypallojen määrä korreloi hyvin pituuden kanssa. Aineistona on kaikki Korisliigapelaajat, jotka olivat pelanneet yli 5 ottelua ja yli 5min per ottelu. Tämän lisäksi poistin Nathaniel Pollard Jr:n, koska oli oudokki ylivoimaisesti sarjan parhaalla OR/36min (6.31) vaikka on vain 196cm. Aineistokoko oli siten 138 (n = 179 – 40 – 1). Puolustuslevypallojen ja pituuden välillä on on myös yhteys, mutta ei yhtä voimakas. Tähän on luultavasti syynä, että usein isot sulkevat vastustajan isoja, jolloin takurit (kuten Bojan Sarcevic 5.3 DR per 36min, 190cm ; Donovan Donaldson 4.3 DR per 36min, 185cm; Kion Williams 4.2 DR per 36min, 187 cm) poimivat paljon puolustuslevypalloja suhteessa pituuteensa. Tottakai levypallomääriin vaikuttaa roolitus, mutta toisaalta roolitus tehdään pelaajien ominaisuuksien (kuten pituus) perusteella.
