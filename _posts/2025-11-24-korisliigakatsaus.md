@@ -1,6 +1,6 @@
 ---
 title:  "Korisliigakatsaus 24.11.2025 – Mitä runkosarjan puoliväli kertoo?"
-subtitle: "Miesten Korisliiga on viettänyt pientä ottelutaukoa, mikä tarjoaa mainion hengähdyshetken kaivaa tilastot esiin ja tarkastella, missä mennään runkosarjan puolivälissä."
+description: "Miesten Korisliiga on viettänyt pientä ottelutaukoa, mikä tarjoaa mainion hengähdyshetken kaivaa tilastot esiin ja tarkastella, missä mennään runkosarjan puolivälissä."
 layout: post
 categories: korisliiga, sarjakatsaus
 ---
@@ -48,6 +48,7 @@ Sarjassa on nyt, jo perinteiseen tapaan, nähty kesken kauden paljon muutoksia r
 [uki-vaihdot]: https://www.korihait.fi/uutiset/korihait-tekee-kokoonpanomuutoksia-frank-champion-ja-jamir-harris-liittyvat-haiparveen/
 [TS]: https://www.nbastuffer.com/analytics101/true-shooting-percentage/
 [kataja-vaihto]: https://www.katajabasket.fi/jaquan-carlos-ja-jayden-taylor-eivat-jatka-kataja-basketissa/
+
 
 
 
