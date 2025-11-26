@@ -48,3 +48,4 @@ Sarjassa on nyt, jo perinteiseen tapaan, nähty kesken kauden paljon muutoksia r
 [TS]: https://www.nbastuffer.com/analytics101/true-shooting-percentage/
 
 [kataja-vaihto]: https://www.katajabasket.fi/jaquan-carlos-ja-jayden-taylor-eivat-jatka-kataja-basketissa/
+
