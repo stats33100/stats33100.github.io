@@ -1,10 +1,11 @@
 ---
 title:  "Hyökkäyslevypallot"
 layout: post
+excerpt: "Pitkään joukkueet seurasivat Popovitcin ym. muita valmentajajättejä, ja juoksuttivat aina kaikki pelaajansa alas heiton jälkeen. Kuitenkin tästä kohtuuttoman pelon taktiikasta ollaan hiljalleen pääsemässä eroon, ja joukkueet lähettävät jälleen pelaajiaan myös hyökkäyslevypalloihin. Alla on kuvattu, kuinka NBA:n keksimääräinen hyökkäyslevypallojen osuus..."
 categories: korisliiga, levypallot
 ---
 
-Pitkään joukkueet seurasivat [Popovitcin ym. muita valmentajajättejä][popovitc], ja juoksuttivat aina kaikki pelaajansa alas heiton jälkeen. Kuitenkin tästä kohtuuttoman pelon taktiikasta ollaan hiljalleen pääsemässä eroon, ja joukkueet lähettää osan pelaajistaan hyökkäyslevypalloihin. Alla on kuvattu, kuinka NBA:n keksimääräinen hyökkäyslevypallojen osuus mahdollisista levypalloista ([offensive rebound percentage, oreb%][oreb_pct]) on noussut kausilla 2005-2025.
+Pitkään joukkueet seurasivat [Popovitcin ym. muita valmentajajättejä][popovitc], ja juoksuttivat aina kaikki pelaajansa alas heiton jälkeen. Kuitenkin tästä kohtuuttoman pelon taktiikasta ollaan hiljalleen pääsemässä eroon, ja joukkueet lähettävät jälleen pelaajiaan myös hyökkäyslevypalloihin. Alla on kuvattu, kuinka NBA:n keksimääräinen hyökkäyslevypallojen osuus mahdollisista levypalloista ([offensive rebound percentage, oreb%][oreb_pct]) on noussut kausilla 2005-2025.
 
 ![Oreb% NBA](/assets/images/image_oreb_pct_nba_r.webp)
 
