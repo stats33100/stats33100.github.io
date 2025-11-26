@@ -1,5 +1,5 @@
 ---
-title:  "Korisliigakatsaus 26.11.2025 – Mitä runkosarjan puoliväli kertoo?"
+title:  "Korisliigakatsaus 24.11.2025 – Mitä runkosarjan puoliväli kertoo?"
 layout: post
 categories: korisliiga, sarjakatsaus
 ---
@@ -37,7 +37,7 @@ Valitsin ensin Korisliigan 30 eniten heitonyrityksiä ottanutta pelaajaa, kun ei
 
 ![top5_korisliiga_2025-11-24](/assets/images/image_top5_tspct_korisliiga_2025-11-24_r.webp)
 
-Edellä mainitun joukon heikoimmasta viimeistelystä on vastannut Ville Tahvanainen, jonka tahmea 46.1 TS% jättää toivomisen varaa. Oletan kuitenkin, että sarjatulokas parantaa vielä jouluun mennessä, kun uudet pelaajat on saatu sisään. Bottom 5:sta löytyy Katajan Henri Permanto ja Jayden Tayler. Kuten jo aiempana mainitsin, niin Katajalla on ollut hirveä aloitus ja se heijastuu myös tilastoissa. Henrillä voi vielä viimeistely parantua, mutta [Jaydenille tämä on jo myöhäistä][kataja-vaihto]. Myös Lahtelaisten kehno alku näkyy tehottomuudessa. Vili Nymanin 49,0 TS% on sarjan kolmanneksi heikoin ja kuudennelta sijalta löytyy Corey Tripp 51,0 TS%.
+Edellä mainitun joukon heikoimmasta viimeistelystä on vastannut Ville Tahvanainen, jonka tahmea 46.1 TS% jättää toivomisen varaa. Oletan kuitenkin, että sarjatulokas parantaa vielä jouluun mennessä, kun uudet pelaajat on saatu sisään. Bottom 5:sta löytyy Katajan Henri Permanto ja Jayden Tayler. Kuten jo aiempana mainitsin, niin Katajalla on ollut hirveä aloitus ja se heijastuu myös tilastoissa. Henrillä voi vielä viimeistely parantua, mutta [Jaydenille tämä on jo myöhäistä][kataja-vaihto]. Myös Lahden kehno alku näkyy tehottomuudessa. Vili Nymanin 49,0 TS% on sarjan kolmanneksi heikoin ja kuudennelta sijalta löytyy Corey Tripp 51,0 TS%.
 
 ![bottom5_korisliiga_2025-11-24](/assets/images/image_bottom5_tspct_korisliiga_2025-11-24_r.webp)
 
@@ -46,6 +46,6 @@ Sarjassa on nyt, jo perinteiseen tapaan, nähty kesken kauden paljon muutoksia r
 [efficiency]: https://3stepsbasket.com/stats-explained
 [uki-vaihdot]: https://www.korihait.fi/uutiset/korihait-tekee-kokoonpanomuutoksia-frank-champion-ja-jamir-harris-liittyvat-haiparveen/
 [TS]: https://www.nbastuffer.com/analytics101/true-shooting-percentage/
-
 [kataja-vaihto]: https://www.katajabasket.fi/jaquan-carlos-ja-jayden-taylor-eivat-jatka-kataja-basketissa/
+
 
