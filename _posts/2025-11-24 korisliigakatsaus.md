@@ -46,4 +46,5 @@ Sarjassa on nyt, jo perinteiseen tapaan, nähty kesken kauden paljon muutoksia r
 [efficiency]: https://3stepsbasket.com/stats-explained
 [uki-vaihdot]: https://www.korihait.fi/uutiset/korihait-tekee-kokoonpanomuutoksia-frank-champion-ja-jamir-harris-liittyvat-haiparveen/
 [TS]: https://www.nbastuffer.com/analytics101/true-shooting-percentage/
+
 [kataja-vaihto]: https://www.katajabasket.fi/jaquan-carlos-ja-jayden-taylor-eivat-jatka-kataja-basketissa/
